@@ -1,0 +1,129 @@
+body{
+    background-color: #C2FFF9;
+    margin: 0pt;
+    text-align: center;
+    font-family: 'Source Serif 4', sans-serif;
+}
+.middle-container{
+    background-color: #FFF2F9;
+}
+h1:hover{
+    color: white;
+}
+h1{
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    font-family: 'Comforter', cursive;
+    color: #FF008E;
+    font-size: 3rem;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    color: #9C0F48;
+}
+h3{
+    font-family: 'Playfair Display', serif;
+}
+p{
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    color: #ECB365;
+}
+
+.tp{
+    background-color: #1572A1;
+    border: solid 20px white;
+   
+    padding: 50px;
+    position: relative;
+    padding-bottom: 0px;
+    padding-top: 250px;
+    right: 0;
+    left: 0;
+    line-height: 0.9;
+}
+
+
+.profile{
+    padding: 100px;
+    padding-bottom: 120;
+    width: 60%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.education{
+    padding: 100px;
+    padding-bottom: 150px;
+    padding-top: 10px;
+    width: 60%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.top{
+   
+}
+.bottom{
+    
+}
+.third{
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    top: 210px;
+}
+.pphoto{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 40px;
+    margin-right: 20px;
+}
+.eduimage{
+    width:150px ;
+    height: 150px;
+    float: right;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+  .footer {
+  
+    left: 0;
+    bottom: 0;
+
+    background-color: #1572A1; 
+    color: wheat;
+    text-align: center;
+    padding: 70px;
+  }
+.contact:hover{
+    color: #5584AC;
+}
+.word{
+    text-align: left;
+    position: relative;
+    left: 30px;
+}
+.thank{
+ color: wheat;
+}
+.thank:hover{
+    color: white;
+}
+hr{
+    width: 8%;
+    border-style: none;
+    border-top-style:dashed;
+    border-width: 10px;
+    color: white;
+}
